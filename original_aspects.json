@@ -1,0 +1,156 @@
+{
+  "0": {
+    "level_1": [
+      "Market"
+    ],
+    "level_2": [
+      "Stock Recommendation",
+      "Stock Target Price"
+    ],
+    "aspects": [
+      "Market/Stock Recommendation",
+      "Market/Stock Target Price"
+    ]
+  },
+  "1": {
+    "level_1": [
+      "Corporate",
+      "Market"
+    ],
+    "level_2": [
+      "Revenue Base",
+      "Demand",
+      "Profitability"
+    ],
+    "aspects": [
+      "Corporate/Revenue Base",
+      "Market/Demand",
+      "Corporate/Profitability"
+    ]
+  },
+  "2": {
+    "level_1": [
+      "Market"
+    ],
+    "level_2": [
+      "Stock Rating",
+      "Price Target"
+    ],
+    "aspects": [
+      "Market/Stock Rating",
+      "Market/Price Target"
+    ]
+  },
+  "3": {
+    "level_1": [
+      "Financial",
+      "Market"
+    ],
+    "level_2": [
+      "Revenue Growth",
+      "Revenue Decline",
+      "Analyst Estimates"
+    ],
+    "aspects": [
+      "Financial/Revenue Growth",
+      "Financial/Revenue Decline",
+      "Market/Analyst Estimates"
+    ]
+  },
+  "4": {
+    "level_1": [
+      "Market"
+    ],
+    "level_2": [
+      "Stock Recommendation",
+      "Stock Target Price"
+    ],
+    "aspects": [
+      "Market/Stock Recommendation",
+      "Market/Stock Target Price"
+    ]
+  },
+  "5": {
+    "level_1": [
+      "Financial",
+      "Corporate"
+    ],
+    "level_2": [
+      "Revenue",
+      "Profitability",
+      "Partnership",
+      "Product Offering",
+      "Product Specification"
+    ],
+    "aspects": [
+      "Financial/Revenue",
+      "Financial/Profitability",
+      "Corporate/Partnership",
+      "Corporate/Product Offering",
+      "Corporate/Product Specification"
+    ]
+  },
+  "6": {
+    "level_1": [
+      "Financial",
+      "Corporate",
+      "Market"
+    ],
+    "level_2": [
+      "Pricing",
+      "Sales Volume",
+      "Order Backlog",
+      "Market Share",
+      "Demand Forecast",
+      "Product Recall"
+    ],
+    "aspects": [
+      "Financial/Pricing",
+      "Corporate/Sales Volume",
+      "Corporate/Order Backlog",
+      "Market/Market Share",
+      "Market/Demand Forecast",
+      "Corporate/Product Recall"
+    ]
+  },
+  "7": {
+    "level_1": [
+      "Corporate"
+    ],
+    "level_2": [
+      "Revenue Growth",
+      "Operational Health"
+    ],
+    "aspects": [
+      "Corporate/Revenue Growth",
+      "Corporate/Operational Health"
+    ]
+  },
+  "8": {
+    "level_1": [
+      "Financial",
+      "Market"
+    ],
+    "level_2": [
+      "Revenue Growth",
+      "Operational Efficiency"
+    ],
+    "aspects": [
+      "Financial/Revenue Growth",
+      "Market/Operational Efficiency"
+    ]
+  },
+  "9": {
+    "level_1": [
+      "Market"
+    ],
+    "level_2": [
+      "Stock Rating",
+      "Price Target"
+    ],
+    "aspects": [
+      "Market/Stock Rating",
+      "Market/Price Target"
+    ]
+  }
+}
