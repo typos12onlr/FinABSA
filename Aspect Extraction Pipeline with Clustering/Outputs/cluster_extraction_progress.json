@@ -1,0 +1,868 @@
+{
+  "level_1_aspects": [
+    "Market"
+  ],
+  "level_2_aspects": [
+    "Sentiment",
+    "Recommendation",
+    "Target Price"
+  ],
+  "aspects": [
+    "Market/Sentiment",
+    "Market/Recommendation",
+    "Market/Target Price"
+  ],
+  "raw_responses": [
+    {
+      "sentence": "KR Choksey is bullish on ITC has recommended buy rating on the stock with a target price of Rs 400 in its research report dated October 27, 2022",
+      "info": [
+        {
+          "snippet": "KR Choksey is bullish on ITC",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of KR Choksey towards ITC, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a specific market recommendation made by KR Choksey, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 400",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet provides a specific market target price for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Tata Consultancy Services has recommended buy rating on the stock with a target price of Rs 4113 in its research report October 09, 2021",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Tata Consultancy Services",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Tata Consultancy Services, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for the stock of Tata Consultancy Services, advising to buy"
+        },
+        {
+          "snippet": "with a target price of Rs 4113",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock of Tata Consultancy Services, indicating the expected future price"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Infosys recommended buy rating on the stock with a target price of Rs 1630 in its research report dated October 14, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Infosys",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Infosys, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "target price of Rs 1630",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 2000 in its research report dated April 21, 2024",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on HDFC Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Prabhudas Lilladher towards HDFC Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Prabhudas Lilladher, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 2000",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Prabhudas Lilladher, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Larsen and Toubro Infotech recommended buy rating on the stock with a target price of Rs 3550 in its research report dated December 10, 2020",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Larsen and Toubro Infotech",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Larsen and Toubro Infotech, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 3550",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on SBI Life Insurance has recommended buy rating on the stock with a target price of Rs 1600 in its research report dated January 22, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on SBI Life Insurance",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards SBI Life Insurance, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 1600",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Dr Reddy&rsquo;s Labs recommended buy rating on the stock with a target price of Rs 5470 in its research report dated October 30, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Dr Reddy&rsquo;s Labs",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Dr Reddy&rsquo;s Labs, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 5470",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Tata Consumer Products recommended buy rating on the stock with a target price of Rs 985 in its research report dated July 27, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Tata Consumer Products",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer Products, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 985",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Sun Pharmaceutical Industries has recommended buy rating on the stock with a target price of Rs 1265 in its research report dated August 03, 2023",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Sun Pharmaceutical Industries",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Sun Pharmaceutical Industries, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for the stock of Sun Pharmaceutical Industries, advising to buy"
+        },
+        {
+          "snippet": "with a target price of Rs 1265",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock of Sun Pharmaceutical Industries, indicating the expected future price"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Titan Company recommended buy rating on the stock with a target price of Rs 2830 in its research report dated October 27, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Titan Company",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Titan Company, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation on the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 2830",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Hindustan Unilever recommended buy rating on the stock with a target price of Rs 2800 in its research report dated December 21, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Hindustan Unilever",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Motilal Oswal towards Hindustan Unilever, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of Motilal Oswal for Hindustan Unilever's stock, indicating a buy rating"
+        },
+        {
+          "snippet": "target price of Rs 2800",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for Hindustan Unilever's stock, indicating a specific price target"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on ICICI Bank recommended buy rating on the stock with a target price of Rs 1050 in its research report dated August 17, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on ICICI Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards ICICI Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 1050",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Shriram Transport Finance recommended buy rating on the stock with a target price of Rs 1690 in its research report dated July 29, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Shriram Transport Finance",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Shriram Transport Finance, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 1690",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Titan Company recommended buy rating on the stock with a target price of Rs 3325 in its research report dated August 03, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Titan Company",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Titan Company, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "target price of Rs 3325",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Tata Consumer Products recommended buy rating on the stock with a target price of Rs 450 in its research report dated June 30, 2020",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Tata Consumer Products",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer Products, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 450",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Axis Bank has recommended buy rating on the stock with a target price of Rs 940 in its research report dated July 26, 2022",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Axis Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Prabhudas Lilladher towards Axis Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Prabhudas Lilladher, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 940",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Prabhudas Lilladher, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on SBI Life Insurance recommended buy rating on the stock with a target price of Rs 1700 in its research report dated January 25, 2024",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on SBI Life Insurance",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards SBI Life Insurance, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 1700",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "KR Choksey is bullish on ITC has recommended buy rating on the stock with a target price of Rs 310 in its research report dated November 01, 2021",
+      "info": [
+        {
+          "snippet": "KR Choksey is bullish on ITC",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of KR Choksey towards ITC, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of KR Choksey for ITC stock, indicating a buy rating"
+        },
+        {
+          "snippet": "with a target price of Rs 310",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by KR Choksey for ITC stock, indicating a specific price target"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on HDFC Bank recommended buy rating on the stock with a target price of Rs 1950 in its research report dated October 16, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on HDFC Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards HDFC Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 1950",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on UltraTech Cement recommended buy rating on the stock with a target price of Rs 5760 in its research report dated December 03, 2020",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on UltraTech Cement",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards UltraTech Cement, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 5760",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on TATA Motors recommended buy rating on the stock with a target price of Rs 565 in its research report dated Novemer 02, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on TATA Motors",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards TATA Motors, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 565",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on SBI Life Insurance recommended buy rating on the stock with a target price of Rs 1500 in its research report dated October 22, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on SBI Life Insurance",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards SBI Life Insurance, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 1500",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Tata Consumer Products recommended buy rating on the stock with a target price of Rs 945 in its research report dated October 25, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Tata Consumer Products",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer Products, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation on the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 945",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Eicher Motors recommended buy rating on the stock with a target price of Rs 3600 in its research report dated August 13, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Eicher Motors",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Eicher Motors, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 3600",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Power Grid has recommended buy rating on the stock with a target price of Rs 222 in its research report dated June 22, 2020",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Power Grid",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Power Grid, which is a market-related concept"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 222",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Titan Company recommended buy rating on the stock with a target price of Rs 3210 in its research report dated November 04, 2022",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Titan Company",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Titan Company, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 3210",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Apollo Hospitals recommended buy rating on the stock with a target price of Rs 5900 in its research report dated December 21, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Apollo Hospitals",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Apollo Hospitals, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 5900",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on TCS recommended buy rating on the stock with a target price of Rs 4220 in its research report dated December 09, 2021",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on TCS",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards TCS, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 4220",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Maruti Suzuki recommended buy rating on the stock with a target price of Rs 8150 in its research report dated December 14, 2020",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Maruti Suzuki",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Maruti Suzuki, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 8150",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Mahindra and Mahindra has recommended buy rating on the stock with a target price of Rs 1740 in its research report dated November 10, 2023",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Mahindra and Mahindra",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Mahindra and Mahindra, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for Mahindra and Mahindra's stock, indicating a buy rating"
+        },
+        {
+          "snippet": "with a target price of Rs 1740",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for Mahindra and Mahindra's stock, indicating a specific price target"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Tata Consumer recommended buy rating on the stock with a target price of Rs 1350 in its research report dated January 18, 2024",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Tata Consumer",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation on the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 1350",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Hero Motocorp has recommended buy rating on the stock with a target price of Rs 3130 in its research report dated August 16, 2022",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Hero Motocorp",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Hero Motocorp, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation made by Prabhudas Lilladher, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 3130",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "KR Choksey is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1836 in its research report dated October 18, 2022",
+      "info": [
+        {
+          "snippet": "KR Choksey is bullish on HDFC Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of KR Choksey towards HDFC Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a recommendation made by KR Choksey, which is a market-related concept"
+        },
+        {
+          "snippet": "with a target price of Rs 1836",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price set by KR Choksey, which is a market-related concept"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on SBI Life Insurance recommended buy rating on the stock with a target price of Rs 1500 in its research report dated April 27, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on SBI Life Insurance",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards SBI Life Insurance, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 1500",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Prabhudas Lilladher is bullish on Larsen and Toubro has recommended buy rating on the stock with a target price of Rs 4071 in its research report dated January 31, 2024",
+      "info": [
+        {
+          "snippet": "Prabhudas Lilladher is bullish on Larsen and Toubro",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Larsen and Toubro, indicating a positive outlook"
+        },
+        {
+          "snippet": "has recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for Larsen and Toubro's stock, indicating a buy rating"
+        },
+        {
+          "snippet": "with a target price of Rs 4071",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for Larsen and Toubro's stock, indicating a specific price target"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on Tata Consumer Products recommended buy rating on the stock with a target price of Rs 910 in its research report dated April 26, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on Tata Consumer Products",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer Products, indicating a positive outlook"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+        },
+        {
+          "snippet": "with a target price of Rs 910",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+        }
+      ]
+    },
+    {
+      "sentence": "Motilal Oswal is bullish on ICICI Bank recommended buy rating on the stock with a target price of Rs 1150 in its research report dated July 23, 2023",
+      "info": [
+        {
+          "snippet": "Motilal Oswal is bullish on ICICI Bank",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Sentiment",
+          "reasoning": "This snippet describes the sentiment of Motilal Oswal towards ICICI Bank, which is a market-related concept"
+        },
+        {
+          "snippet": "recommended buy rating on the stock",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Recommendation",
+          "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+        },
+        {
+          "snippet": "target price of Rs 1150",
+          "level_1_aspect": "Market",
+          "level_2_aspect": "Target Price",
+          "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+        }
+      ]
+    }
+  ]
+}

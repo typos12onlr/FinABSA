@@ -1,0 +1,23 @@
+{
+  "sentence": "Prabhudas Lilladher is bullish on Hero Motocorp has recommended buy rating on the stock with a target price of Rs 3130 in its research report dated August 16, 2022",
+  "info": [
+    {
+      "snippet": "Prabhudas Lilladher is bullish on Hero Motocorp",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Hero Motocorp, indicating a positive outlook"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the market recommendation made by Prabhudas Lilladher, advising to buy the stock"
+    },
+    {
+      "snippet": "with a target price of Rs 3130",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock, indicating the expected future value"
+    }
+  ]
+}

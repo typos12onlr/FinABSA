@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Tata Consumer recommended buy rating on the stock with a target price of Rs 1350 in its research report dated January 18, 2024",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Tata Consumer",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a buy rating recommendation on the stock, which is a market-related concept"
+    },
+    {
+      "snippet": "with a target price of Rs 1350",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+    }
+  ]
+}

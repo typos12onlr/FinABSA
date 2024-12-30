@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Shriram Transport Finance recommended buy rating on the stock with a target price of Rs 1690 in its research report dated July 29, 2022",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Shriram Transport Finance",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Shriram Transport Finance, indicating a positive outlook"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+    },
+    {
+      "snippet": "with a target price of Rs 1690",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "KR Choksey is bullish on ITC has recommended buy rating on the stock with a target price of Rs 400 in its research report dated October 27, 2022",
+  "info": [
+    {
+      "snippet": "KR Choksey is bullish on ITC",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of KR Choksey towards ITC, indicating a positive outlook"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a specific market recommendation made by KR Choksey, advising to buy the stock"
+    },
+    {
+      "snippet": "with a target price of Rs 400",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet provides a specific market target price for the stock, indicating the expected future value"
+    }
+  ]
+}

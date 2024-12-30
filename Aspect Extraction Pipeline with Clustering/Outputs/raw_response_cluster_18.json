@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on HDFC Bank recommended buy rating on the stock with a target price of Rs 1950 in its research report dated October 16, 2023",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on HDFC Bank",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards HDFC Bank, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+    },
+    {
+      "snippet": "with a target price of Rs 1950",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+    }
+  ]
+}

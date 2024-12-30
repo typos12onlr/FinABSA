@@ -1,0 +1,17 @@
+{
+  "0": {
+    "level_1": [
+      "Market"
+    ],
+    "level_2": [
+      "Sentiment",
+      "Recommendation",
+      "Target Price"
+    ],
+    "aspects": [
+      "Market/Sentiment",
+      "Market/Recommendation",
+      "Market/Target Price"
+    ]
+  }
+}

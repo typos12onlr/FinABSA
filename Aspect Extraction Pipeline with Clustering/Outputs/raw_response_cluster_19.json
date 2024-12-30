@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on UltraTech Cement recommended buy rating on the stock with a target price of Rs 5760 in its research report dated December 03, 2020",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on UltraTech Cement",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards UltraTech Cement, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 5760",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+    }
+  ]
+}

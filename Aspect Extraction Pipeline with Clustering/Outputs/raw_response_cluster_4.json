@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Larsen and Toubro Infotech recommended buy rating on the stock with a target price of Rs 3550 in its research report dated December 10, 2020",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Larsen and Toubro Infotech",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Larsen and Toubro Infotech, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 3550",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+    }
+  ]
+}

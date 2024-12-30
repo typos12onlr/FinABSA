@@ -1,0 +1,23 @@
+{
+  "sentence": "Prabhudas Lilladher is bullish on Tata Consultancy Services has recommended buy rating on the stock with a target price of Rs 4113 in its research report October 09, 2021",
+  "info": [
+    {
+      "snippet": "Prabhudas Lilladher is bullish on Tata Consultancy Services",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Tata Consultancy Services, indicating a positive outlook"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for the stock of Tata Consultancy Services, advising to buy"
+    },
+    {
+      "snippet": "with a target price of Rs 4113",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock of Tata Consultancy Services, indicating the expected future price"
+    }
+  ]
+}

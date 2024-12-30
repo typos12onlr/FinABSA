@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Dr Reddy&rsquo;s Labs recommended buy rating on the stock with a target price of Rs 5470 in its research report dated October 30, 2021",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Dr Reddy&rsquo;s Labs",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Dr Reddy&rsquo;s Labs, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 5470",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+    }
+  ]
+}

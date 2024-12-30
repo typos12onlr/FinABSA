@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on TCS recommended buy rating on the stock with a target price of Rs 4220 in its research report dated December 09, 2021",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on TCS",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards TCS, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 4220",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Titan Company recommended buy rating on the stock with a target price of Rs 3325 in its research report dated August 03, 2023",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Titan Company",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Titan Company, indicating a positive outlook"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+    },
+    {
+      "snippet": "target price of Rs 3325",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+    }
+  ]
+}

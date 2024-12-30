@@ -1,0 +1,23 @@
+{
+  "sentence": "KR Choksey is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1836 in its research report dated October 18, 2022",
+  "info": [
+    {
+      "snippet": "KR Choksey is bullish on HDFC Bank",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of KR Choksey towards HDFC Bank, which is a market-related concept"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by KR Choksey, which is a market-related concept"
+    },
+    {
+      "snippet": "with a target price of Rs 1836",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by KR Choksey, which is a market-related concept"
+    }
+  ]
+}

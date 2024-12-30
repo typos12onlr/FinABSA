@@ -1,0 +1,23 @@
+{
+  "sentence": "Prabhudas Lilladher is bullish on Axis Bank has recommended buy rating on the stock with a target price of Rs 940 in its research report dated July 26, 2022",
+  "info": [
+    {
+      "snippet": "Prabhudas Lilladher is bullish on Axis Bank",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Prabhudas Lilladher towards Axis Bank, which is a market-related concept"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by Prabhudas Lilladher, which is a market-related concept"
+    },
+    {
+      "snippet": "with a target price of Rs 940",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by Prabhudas Lilladher, which is a market-related concept"
+    }
+  ]
+}

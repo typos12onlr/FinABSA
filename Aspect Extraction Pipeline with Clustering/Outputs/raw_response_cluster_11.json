@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on ICICI Bank recommended buy rating on the stock with a target price of Rs 1050 in its research report dated August 17, 2022",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on ICICI Bank",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards ICICI Bank, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a buy rating recommendation for the stock, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 1050",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price for the stock, which is a market-related concept"
+    }
+  ]
+}

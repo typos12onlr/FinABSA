@@ -1,0 +1,23 @@
+{
+  "sentence": "Prabhudas Lilladher is bullish on Mahindra and Mahindra has recommended buy rating on the stock with a target price of Rs 1740 in its research report dated November 10, 2023",
+  "info": [
+    {
+      "snippet": "Prabhudas Lilladher is bullish on Mahindra and Mahindra",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Mahindra and Mahindra, indicating a positive outlook"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for Mahindra and Mahindra's stock, indicating a buy rating"
+    },
+    {
+      "snippet": "with a target price of Rs 1740",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for Mahindra and Mahindra's stock, indicating a specific price target"
+    }
+  ]
+}

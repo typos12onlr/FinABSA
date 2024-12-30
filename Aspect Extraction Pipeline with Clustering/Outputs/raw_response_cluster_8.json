@@ -1,0 +1,23 @@
+{
+  "sentence": "Prabhudas Lilladher is bullish on Sun Pharmaceutical Industries has recommended buy rating on the stock with a target price of Rs 1265 in its research report dated August 03, 2023",
+  "info": [
+    {
+      "snippet": "Prabhudas Lilladher is bullish on Sun Pharmaceutical Industries",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of Prabhudas Lilladher towards Sun Pharmaceutical Industries, indicating a positive outlook"
+    },
+    {
+      "snippet": "has recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the market recommendation of Prabhudas Lilladher for the stock of Sun Pharmaceutical Industries, advising to buy"
+    },
+    {
+      "snippet": "with a target price of Rs 1265",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Prabhudas Lilladher for the stock of Sun Pharmaceutical Industries, indicating the expected future price"
+    }
+  ]
+}

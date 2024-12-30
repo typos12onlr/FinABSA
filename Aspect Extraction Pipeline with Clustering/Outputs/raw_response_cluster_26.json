@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Apollo Hospitals recommended buy rating on the stock with a target price of Rs 5900 in its research report dated December 21, 2021",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Apollo Hospitals",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Apollo Hospitals, which is a market-related concept"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes a recommendation made by Motilal Oswal, which is a market-related concept"
+    },
+    {
+      "snippet": "target price of Rs 5900",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes a target price set by Motilal Oswal, which is a market-related concept"
+    }
+  ]
+}

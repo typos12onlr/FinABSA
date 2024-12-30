@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Tata Consumer Products recommended buy rating on the stock with a target price of Rs 450 in its research report dated June 30, 2020",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Tata Consumer Products",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the sentiment of Motilal Oswal towards Tata Consumer Products, indicating a positive outlook"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the recommendation made by Motilal Oswal, advising to buy the stock"
+    },
+    {
+      "snippet": "with a target price of Rs 450",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Motilal Oswal for the stock, indicating the expected future value"
+    }
+  ]
+}

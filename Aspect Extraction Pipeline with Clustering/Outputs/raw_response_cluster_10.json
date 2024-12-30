@@ -1,0 +1,23 @@
+{
+  "sentence": "Motilal Oswal is bullish on Hindustan Unilever recommended buy rating on the stock with a target price of Rs 2800 in its research report dated December 21, 2021",
+  "info": [
+    {
+      "snippet": "Motilal Oswal is bullish on Hindustan Unilever",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Sentiment",
+      "reasoning": "This snippet describes the market sentiment of Motilal Oswal towards Hindustan Unilever, indicating a positive outlook"
+    },
+    {
+      "snippet": "recommended buy rating on the stock",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Recommendation",
+      "reasoning": "This snippet describes the market recommendation of Motilal Oswal for Hindustan Unilever's stock, indicating a buy rating"
+    },
+    {
+      "snippet": "target price of Rs 2800",
+      "level_1_aspect": "Market",
+      "level_2_aspect": "Target Price",
+      "reasoning": "This snippet describes the target price set by Motilal Oswal for Hindustan Unilever's stock, indicating a specific price target"
+    }
+  ]
+}
